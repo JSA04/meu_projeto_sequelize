@@ -6,7 +6,6 @@ Aplicação simples para gerenciar usuários e endereços (CRUD), construída co
 ## Funcionalidades
 - Cadastrar, listar, editar e excluir usuários
 - Adicionar e remover endereços vinculados a usuários
-- Relacionamento 1:N (User -> Addresses)
 - Layout responsivo com Handlebars e CSS custom
 
 ## Tecnologias
@@ -17,11 +16,11 @@ Aplicação simples para gerenciar usuários e endereços (CRUD), construída co
 - Nodemon (dev)
 
 ## Pré-requisitos
-- Node.js (v16+ recomendado)
+- Node.js
 - MySQL rodando localmente ou em servidor acessível
 
 ## Instalação (local)
 1. Clone o repositório:
 ```bash
-git clone <URL-do-repo>
+git clone https://github.com/JSA04/meu_projeto_sequelize.git
 cd meu-projeto-sequelize
